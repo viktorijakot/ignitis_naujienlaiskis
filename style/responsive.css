@@ -1,0 +1,57 @@
+@media screen and (min-width: 2560px) {
+    body {
+        margin: 0 var(--spacing-xxxxl);
+    }
+}
+
+@media screen and (max-width: 768px) {
+ .logoBox {
+    padding: var(--spacing-xxl) 0;
+  }
+
+  .logo {
+    width: 25%
+  }
+}
+
+@media screen and (max-width: 640px){
+    .logoBox {
+        padding: var(--spacing-m) 0;
+    }
+    
+    .logo {
+        width: 30%
+    }
+
+    .article {
+        padding: var(--spacing-m) 0;
+    }
+
+    .title {
+        font-size: var(--font-size-m);
+        padding: var(--spacing-m) 0 var(--spacing-xxs);
+    }
+
+    .paragraph {
+        font-size: var(--font-size-s);
+        padding-bottom: var(--spacing-s);
+    }
+
+    .buttonMore {
+        font-size: var(--font-size-xs);
+        padding: var(--spacing-xxxs) var(--spacing-s) var(--spacing-xxs);
+    }
+
+    .articleLinks {
+        font-size: var(--font-size-xs);
+    }
+    
+    .arrowIcon {
+        width: 14px;
+        margin-right: var(--spacing-xxxxs);
+    }
+    
+    .footer {
+        font-size: var(--font-size-xs)
+    }   
+}

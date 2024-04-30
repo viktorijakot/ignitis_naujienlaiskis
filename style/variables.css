@@ -1,0 +1,23 @@
+:root {
+    --color-blue-paragraph: #172E62;
+    --color-blue-button-link-100: #4057E3;
+    --color-blue-button-link-200: #203162;
+    --color-white: #FFFFFF;
+    --color-grey-border: #F4F5F7;
+    --font-size-xs: 14px;
+    --font-size-s: 22px;
+    --font-size-m: 24px;
+    --font-size-l: 28px;
+    --spacing-xxxxl: 300px;
+    --spacing-xxxl: 70px;
+    --spacing-xxl: 40px;
+    --spacing-xl: 33px;
+    --spacing-l: 30px;
+    --spacing-m: 27px;
+    --spacing-s: 24px;
+    --spacing-xs: 16px;
+    --spacing-xxs: 15px;
+    --spacing-xxxs: 14px;
+    --spacing-xxxxs: 8px;
+    --border-radius-s: 6px;
+}
